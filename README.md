@@ -1,7 +1,6 @@
-<!-- Header com gradiente azul moderno -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF,6A5ACD&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF&height=120&section=header"/>
 
-<!-- Typing SVG animado com frases curtas e harmônicas -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F51FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Bruna+Núñez.;I+am+a+Data+Science+student.;I'm+from+Brazil.;I'm+open+to+collaborations+and+projects.)](https://git.io/typing-svg)
 
 ---
