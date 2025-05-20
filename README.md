@@ -13,7 +13,8 @@
 💡 Mais de **12 anos de experiência** em jornalismo, comunicação e marketing  
 📊 Buscando unir **pensamento analítico**, **visão estratégica** e **tecnologia**  
 💻 Explorando **Python**, **SQL** e fundamentos da **análise de dados**  
-🌐 Conhecimentos em **HTML** e mente aberta a novas ferramentas
+🌐 Conhecimentos em **HTML** e mente aberta a novas ferramentas  
+📈 Experiência com ferramentas de **automação de marketing** (RD Station, SharpSpring), analisando dados de campanhas e aplicando lógica para otimização de processos e resultados
 
 🇬🇧  
 🎓 Studying **Data Science** at EBAC | Career transition from journalism  
@@ -21,7 +22,8 @@
 💡 Over **12 years of experience** in journalism, communication, and marketing  
 📊 Combining **analytical thinking**, **strategic vision**, and **technology**  
 💻 Exploring **Python**, **SQL**, and **data analysis** foundations  
-🌐 Basic knowledge of **HTML** and always eager to explore new tools
+🌐 Basic knowledge of **HTML** and always eager to explore new tools  
+📈 Experience with **marketing automation tools** (RD Station, SharpSpring), analyzing campaign data and applying logic for process and result optimization
 
 ---
 
