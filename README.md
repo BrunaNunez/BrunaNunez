@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF&height=120&section=header"/>
+<h2>Hi, I'm Bruna Núñez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1F51FF&size=28&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Bruna+Núñez.;I'm+a+Data+Science+student.;I'm+from+Brazil.;Let's+build+with+data!)](https://git.io/typing-svg)
+🇬🇧 Data Science student | Python & SQL explorer | Ex-journalist turned data enthusiast  
+🇧🇷 Estudante de Ciência de Dados | Exploradora de Python e SQL | Jornalista migrando para dados
 
 ---
 
@@ -32,15 +33,45 @@
 
 ---
 
-## 🚀 Em busca de | Open to
+## 🧩 Projetos | Projects
 
-🇧🇷  
-📌 Projetos colaborativos e oportunidades para aplicar habilidades em dados  
-🤝 Conectar com pessoas da área e aprender continuamente  
+🇧🇷 Estou estruturando meus primeiros projetos práticos em ciência de dados.  
+Abaixo estão ideias que pretendo desenvolver e publicar em breve aqui no GitHub:
 
-🇬🇧  
-📌 Collaborative projects and opportunities to apply data skills  
-🤝 Connecting with professionals and constantly learning  
+🇬🇧 I’m currently working on my first hands-on data science projects.  
+Below are ideas I plan to build and share soon on my GitHub:
+
+- 🔍 Análise exploratória com Python e Pandas  
+- 📊 Dashboard interativo com Power BI  
+- 🤖 Modelo de previsão com Machine Learning  
+- 📂 Consultas SQL em base de dados simulada
+
+> 🚧 Em breve: repositórios com código, README bilíngue e insights práticos.  
+> *Coming soon: repositories with code, bilingual README and practical insights.*
+
+---
+
+## 📜 Certificados | Certificates
+
+🇧🇷 Atualmente cursando:  
+🎓 **Formação Cientista de Dados** – EBAC *(em andamento)*  
+
+🇬🇧 Currently studying:  
+🎓 **Data Science Program** – EBAC *(in progress)*  
+
+> 💡 Sempre em busca de novos aprendizados para fortalecer minha base em ciência de dados.
+
+---
+
+## 🏆 Conquistas | Achievements
+
+🇧🇷 Algumas vitórias da minha transição de carreira (até agora!):  
+🇬🇧 A few highlights from my career transition journey (so far!):
+
+- ✅ Completei meus **primeiros estudos em Python e SQL**  
+- 📈 Entendi conceitos-chave de **análise de dados e visualização**  
+- 🌐 Comecei a construir uma **presença técnica no GitHub**  
+- 🤝 Participei de **comunidades e eventos de tecnologia**
 
 ---
 
@@ -55,11 +86,13 @@
 ## 📈 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunaNunez&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=FFFFFF&icon_color=1F51FF&text_color=0D1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaNunez&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F51FF&text_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunaNunez&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFFFF&icon_color=1F51FF&text_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaNunez&layout=compact&langs_count=7&hide_border=true&bg_color=FFFFFF&title_color=1F51FF&text_color=0D1117"/>
 </div>
 
 ---
 
-<!-- Obrigada por visitar meu perfil! :) -->
+<!-- Obrigada por visitar meu perfil! 😊 -->
+
+
 
